@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "sensor_data_func": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7169",
+      "launchBrowser": false
+    }
+  }
+}
